@@ -1,0 +1,8 @@
+{
+  "name": "Nova AI",
+  "description": "Nova AI by Rauf - Personal AI Assistant with isolated multi-session conversation history and smart model routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
